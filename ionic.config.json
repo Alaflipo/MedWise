@@ -1,0 +1,7 @@
+{
+  "name": "medicijnwijs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
